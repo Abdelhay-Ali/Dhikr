@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">هٰذَا ذِكْرٌ</string>
+
+    <string name="channel_reminder_name">تذكير الورد</string>
+    <string name="channel_reminder_desc">تذكير بإكمال ورد الذكر اليومي</string>
+
+    <!-- %1$d = العدد المتبقّي من الذكر -->
+    <string name="notif_title">بقي عليك %1$d من هذا الذكر</string>
+    <string name="notif_sub_many">%1$d أذكار لم تكتمل اليوم</string>
+    <string name="notif_action_open">افتح العدّاد</string>
+    <string name="notif_action_snooze">ذكّرني بعد ساعة</string>
+
+    <string name="channel_adhan_name">الأذان</string>
+    <string name="channel_adhan_desc">تنبيه عند دخول وقت الصلاة</string>
+    <string name="adhan_title">حان الآن وقت صلاة %1$s</string>
+    <string name="adhan_body">الصلاة خير من النوم… أقم الصلاة</string>
+
+    <string name="channel_pre_adhan_name">تنبيه قبل الأذان</string>
+    <string name="channel_pre_adhan_desc">تنبيه قبل دخول وقت الصلاة بمدة تختارها</string>
+    <string name="pre_adhan_title">بقي %1$d دقيقة على أذان %2$s</string>
+    <string name="pre_adhan_body">استعدّ للصلاة</string>
+
+    <string name="channel_playback_name">تشغيل الأذان</string>
+    <string name="channel_playback_desc">إشعار أثناء رفع الأذان مع زر الإيقاف</string>
+    <string name="adhan_playing">يُرفع الأذان</string>
+    <string name="adhan_action_stop">إيقاف الأذان</string>
+    <string name="adhan_stop_hint">اضغط أي زرّ صوت لإيقاف الأذان</string>
+
+    <string name="channel_after_name">أذكار ما بعد الصلاة</string>
+    <string name="channel_after_desc">تذكير بأذكار ما بعد الصلاة عقب كل فريضة</string>
+    <string name="after_prayer_title">أذكار بعد صلاة %1$s</string>
+    <string name="after_prayer_body">سبحان الله وبحمده… اضغط لفتح الورد</string>
+
+    <string name="channel_recitation">تلاوة القرآن</string>
+
+    <string name="channel_radio">إذاعة القرآن</string>
+    <string name="radio_playing">بثّ مباشر</string>
+</resources>
